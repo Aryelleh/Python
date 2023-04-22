@@ -16,3 +16,5 @@ string1 = "12345673185472"
 a = ft_isdigit(string1)
 
 print(a)
+
+#learned to use len() which returns the number of items in a container

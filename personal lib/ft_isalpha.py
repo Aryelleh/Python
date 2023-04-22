@@ -9,3 +9,5 @@ def ft_isalpha(passed_string):
 i = ft_isalpha("Piplup")
 
 print(i)
+
+#learned how to use ord(), and that using integers instead of ord(letter) is the same thing.
