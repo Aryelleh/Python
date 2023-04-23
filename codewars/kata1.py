@@ -10,4 +10,4 @@ def alphabet_position(passed_string):
 
 print(alphabet_position("The sunset sets at twelve o' clock."))
 
-# learned join(), append(), dict{}
+# learned join(), append(), dict{}, lower()
